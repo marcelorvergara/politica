@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d84e461-0a1b-474a-adb5-cf1f6f833182" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/homolog-tt.json" beforeDir="false" afterPath="$PROJECT_DIR$/functions/homolog-tt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/functions/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iUCw2Tx1WQs2NKHkQDsmzPn6lz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Vue/session1/locadora-de-filmes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/functions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d84e461-0a1b-474a-adb5-cf1f6f833182" name="Default Changelist" comment="" />
+      <created>1601953018478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601953018478</updated>
+      <workItem from="1601953019506" duration="3870000" />
+      <workItem from="1602004500414" duration="5094000" />
+      <workItem from="1602028893272" duration="20975000" />
+      <workItem from="1602251928377" duration="7672000" />
+      <workItem from="1602428260239" duration="75000" />
+      <workItem from="1602429507794" duration="10860000" />
+      <workItem from="1603187420575" duration="1208000" />
+      <workItem from="1603281887180" duration="919000" />
+      <workItem from="1603409214654" duration="340000" />
+      <workItem from="1604002227144" duration="158000" />
+      <workItem from="1604585361540" duration="1298000" />
+      <workItem from="1605098518216" duration="9667000" />
+      <workItem from="1605202747717" duration="539000" />
+      <workItem from="1605220481081" duration="1967000" />
+      <workItem from="1605295893309" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2449" y="320" width="366" height="345" key="FileChooserDialogImpl" timestamp="1602335990970">
+      <screen x="1920" y="108" width="1366" height="768" />
+    </state>
+    <state x="743" y="298" width="426" height="485" key="FileChooserDialogImpl/1920.108.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1601993376312" />
+    <state x="2449" y="320" width="366" height="345" key="FileChooserDialogImpl/1920.108.1366.768/0.0.1920.1080@1920.108.1366.768" timestamp="1602335990970" />
+    <state x="459" y="304" width="404" height="160" key="Github.CreateGistDialog" timestamp="1605186388541">
+      <screen x="0" y="0" width="1323" height="768" />
+    </state>
+    <state x="459" y="304" width="404" height="160" key="Github.CreateGistDialog/0.0.1323.768@0.0.1323.768" timestamp="1605186388541" />
+  </component>
+</project>
